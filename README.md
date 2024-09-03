@@ -1,4 +1,4 @@
-# My Spring Boot Project
+# My Spring Boot Example
 
 ## Overview
 

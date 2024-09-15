@@ -54,3 +54,7 @@ Here are some example API endpoints:
 Thanks to the following people who have contributed to this project:
 
 * [@Chandrashekharwagh](https://github.com/Chandrashekharwagh) 📖
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
